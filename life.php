@@ -1,0 +1,1 @@
+<p class="text-sm text-slate-500">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla voluptatibus ullam dolore at, rem praesentium odio assumenda reiciendis. Incidunt, aspernatur?</p>
